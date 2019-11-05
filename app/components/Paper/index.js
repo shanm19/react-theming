@@ -14,9 +14,9 @@ import styled from 'styled-components';
 const StyledPaper = styled.div`
   background-color: ${props => props.theme.color.background.paper.main};
   color: ${props => props.theme.color.background.paper.text};
-  ${props => props.p ? props.theme.layout.p([props.p]) : ''}
-  ${props => props.pX ? props.theme.layout.pX(props.pX) : ''}
-  ${props => props.pY ? props.theme.layout.pY(props.pY) : ''}
+  ${props => props.p ? props.theme.mixins.p([props.p]) : ''}
+  ${props => props.pX ? props.theme.mixins.pX(props.pX) : ''}
+  ${props => props.pY ? props.theme.mixins.pY(props.pY) : ''}
   ${props => props.round ? `border-radius: ${props.theme.globals.borderRadius.main}px;` : ''}
   box-shadow: ${props => props.depth ? props.theme.elevation[props.depth * 100] : 'none'};
   ${props => props.depthHover ? 'cursor: pointer;' : ''}
