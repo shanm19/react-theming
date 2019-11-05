@@ -1,8 +1,6 @@
 ## Start
 npm start
 <br>
-<br>
-<br>
 ## Resources
 <i>React Boilerplate</i>
 <br>
@@ -42,5 +40,3 @@ npm start
 <i>Z-Index</i>
 <br>
   https://css-tricks.com/handling-z-index/
-<br>
-<br>
