@@ -2,29 +2,45 @@
 npm start
 <br>
 <br>
+<br>
 ## Resources
-React Boilerplate
+<i>React Boilerplate</i>
+<br>
   https://github.com/react-boilerplate/react-boilerplate
 <br>
-CSS-in-JS
+<br>
+<i>CSS-in-JS</i>
+<br>
   https://medium.com/dailyjs/what-is-actually-css-in-js-f2f529a2757
 <br>
-Styled Components
+<br>
+<i>Styled Components</i>
+<br>
   https://medium.com/styled-components/announcing-styled-components-v5-beast-mode-389747abd987
 <br>
-Material Design Principles
+<br>
+<i>Material Design Principles</i>
+<br>
   https://material.io/design/introduction/#principles
 <br>
 <br>
-Typography
+<i>Typography</i>
+<br>
   https://material.io/design/typography/the-type-system.html#
 <br>
-Colors
+<br>
+<i>Colors</i>
+<br>
   https://material.io/design/color/#
 <br>
-Spacing
+<br>
+<i>Spacing</i>
+<br>
   https://material.io/design/layout/spacing-methods.html#
 <br>
-Z-Index
+<br>
+<i>Z-Index</i>
+<br>
   https://css-tricks.com/handling-z-index/
+<br>
 <br>
